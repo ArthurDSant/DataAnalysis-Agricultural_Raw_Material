@@ -1,10 +1,10 @@
-![Thumb](https://github.com/user-attachments/assets/410ee8aa-7b4d-488d-8680-e07e70733ce8)
+![Thumb](https://github.com/user-attachments/assets/d1f83eca-ec6c-4b22-ba0b-72cd34040ba5)
 
 # Data Analysis - Agricultural Raw Material
 This Python project performs the analysis and visualization of agricultural raw material price data using a dataset from Kaggle.
 
 ## Stack utilizada
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%234C7EAB.svg?style=for-the-badge&logo=seaborn&logoColor=white) [Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%234C7EAB.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ## Features
 1 - **Data Loading and Cleaning:** The dataset is loaded from a CSV file. Percent values, commas, and other symbols are removed to ensure data consistency. Missing values (NaN) are handled by removing the rows with incomplete data.

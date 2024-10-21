@@ -1,4 +1,4 @@
-![Thumb](https://github.com/user-attachments/assets/b3c5eb11-f4b5-40c3-b3ae-614234eee2a3)
+![Thumb](https://github.com/user-attachments/assets/410ee8aa-7b4d-488d-8680-e07e70733ce8)
 
 # Data Analysis - Agricultural Raw Material
 This Python project performs the analysis and visualization of agricultural raw material price data using a dataset from Kaggle.
@@ -37,4 +37,4 @@ This Python project performs the analysis and visualization of agricultural raw 
 ```
 
 ## Screenshots
-![DA - Agricultural Raw Material](https://github.com/user-attachments/assets/34754124-ef0d-41db-965a-0b539a3e04b4)
+![DA - Agricultural Raw Material](https://github.com/user-attachments/assets/6cf223fc-ee0f-419c-812f-1865c27a2bb6)
